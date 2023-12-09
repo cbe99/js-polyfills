@@ -2,7 +2,7 @@
 
 1. Array
 
-   - [ ] Array.map
+   - [x] Array.map
 
    - [ ] Array.filter
 
@@ -11,3 +11,7 @@
    - [ ] Array.forEach
 
    - [ ] Array.flatten
+
+2. Promises
+
+3. Object
